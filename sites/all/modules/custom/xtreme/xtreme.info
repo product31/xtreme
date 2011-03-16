@@ -1,0 +1,13 @@
+
+name = xtreme
+description = Advanced uses of the menu APIs.
+package = Xtreme
+core = 7.x
+files[] = xtreme.test
+
+; Information added by drupal.org packaging script on 2011-03-10
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "xtreme"
+datestamp = "1299715528"
+

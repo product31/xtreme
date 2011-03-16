@@ -1,0 +1,11 @@
+<?php
+
+/**
+ * Get rid of the variables used by simple menu.
+ */
+function simplemenu_uninstall() {
+  // XXX
+  //db_query("DELETE FROM {variable} WHERE name LIKE 'simplemenu_%'");
+}
+
+// vim: ts=2 sw=2 et syntax=php
